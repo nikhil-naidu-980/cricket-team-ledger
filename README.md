@@ -24,5 +24,3 @@ The python scripts are created to help with these issues.
 3. Create a `.csv` for each tournament, add each match day as a column followed by the team on that specific day - `whitby_league.csv` and `gtcc_league.csv` are added as a examples.
 4. Run `python main.py` - this will create two new `.csv` files - `games_played.csv` and `dates_played.csv`
 
-
-## Shout-out to North Yorker, Toronto <3 
